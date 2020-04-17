@@ -43,4 +43,4 @@ The backend nodejs code for this chatapp is in "server-chatapp" git repository a
 
 The client side code is deployed on Netlify 
 
-Go to https://chattingbee.netlify.app.com
+Go to https://chattingbee.netlify.app
